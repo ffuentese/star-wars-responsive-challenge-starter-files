@@ -4,7 +4,7 @@ header {
 	width: 100%;
 	position: fixed;
 	padding-left: 50px;
-	padding-bottom: 120px;
+	padding-bottom: 60px;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h2 {
 }
 
 main {
-  padding-top: 200px;
+  padding-top: 150px;
 }
 
 
@@ -26,14 +26,14 @@ main {
 
 
 .box {
-  width: 300px;
+  
   text-align: center;
   border: 1px solid lightgray;
 }
 
 .box img {
 	height: 250px;
-	width: 300px;
+	width: 100%;
 }
 
 .box p {
