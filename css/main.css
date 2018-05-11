@@ -1,0 +1,46 @@
+header {
+	background-color: #E8B952;
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	padding-left: 50px;
+	padding-bottom: 120px;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 14px;
+
+}
+
+main {
+  padding-top: 200px;
+}
+
+
+
+
+
+.box {
+  width: 300px;
+  text-align: center;
+  border: 1px solid lightgray;
+}
+
+.box img {
+	height: 250px;
+	width: 300px;
+}
+
+.box p {
+	padding-left: 5px;
+	text-align: left;
+}
+
+.name {
+	font-weight: bold;
+}
